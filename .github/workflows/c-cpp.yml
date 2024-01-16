@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+cout<<"value:";
+int a;
+cin>>a;
+a=a+1;
+cout<<"Ans:"<<a;
+getch();
+}
